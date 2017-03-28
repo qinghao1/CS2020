@@ -1,0 +1,18 @@
+Total cost random: 0.3207798
+Total cost increasing: 0.6442397
+Total cost decreasing: 0.089659646
+
+Total cost random: 0.14438912
+Total cost increasing: 0.114972755
+Total cost decreasing: 0.1216634
+
+
+//Swap with [0]
+Total cost random: 0.39277485
+Total cost increasing: 0.69215614
+Total cost decreasing: 0.16676144
+
+//Sorted
+Total cost random: 0.12527525
+Total cost increasing: 0.118475705
+Total cost decreasing: 0.115777515

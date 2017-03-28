@@ -1,0 +1,64 @@
+TESTSIZE 100000
+--Started--
+
+sg.edu.nus.cs2020.SorterA
+Stable: false
+Time: 19.161926
+Mode: Random. Result: Sorted: true
+Time: 16.62658
+Mode: Sorted. Result: Sorted: true
+Time: 10.039906
+Mode: Reverse. Result: Sorted: true
+Time: 10.780437
+
+sg.edu.nus.cs2020.SorterB
+Stable: false
+Time: 0.4185691
+Mode: Random. Result: Sorted: true
+Time: 0.41489848
+Mode: Sorted. Result: Sorted: true
+Time: 0.94179565
+Mode: Reverse. Result: Sorted: true
+Time: 0.9318144
+
+sg.edu.nus.cs2020.SorterC
+Stable: false
+Time: 0.057602376
+Mode: Random. Result: Sorted: true
+Time: 0.04024263
+Mode: Sorted. Result: Sorted: true
+Time: 0.0320133
+Mode: Reverse. Result: Sorted: false
+Time: 0.029804785
+
+sg.edu.nus.cs2020.SorterD
+Stable: true
+Time: 21.313572
+Mode: Random. Result: Sorted: true
+Time: 24.0731
+Mode: Sorted. Result: Sorted: true
+Time: 0.001533045
+Mode: Reverse. Result: Sorted: true
+Time: 35.45668
+
+sg.edu.nus.cs2020.SorterE
+Stable: true
+Time: 0.5566562
+Mode: Random. Result: Sorted: true
+Time: 0.5978306
+Mode: Sorted. Result: Sorted: true
+Time: 0.2971568
+Mode: Reverse. Result: Sorted: true
+Time: 0.30598047
+
+sg.edu.nus.cs2020.SorterF
+Stable: true
+Time: 107.77909
+Mode: Random. Result: Sorted: true
+Time: 98.820984
+Mode: Sorted. Result: Sorted: true
+Time: 0.001304921
+Mode: Reverse. Result: Sorted: true
+Time: 43.866173
+
+--Finished--

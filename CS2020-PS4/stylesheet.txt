@@ -1,0 +1,18 @@
+node {
+    size: 15px;
+    fill-color: red;
+    text-size: 15px;
+}
+
+edge {
+    text-alignment: under;
+    text-size: 15px;
+}
+
+node.leaf {
+    fill-color: green;
+}
+
+node.root {
+    fill-color: blue;
+}
